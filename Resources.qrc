@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/background.png</file>
+        <file>images/logo.png</file>
+        <file>images/engineerIcon.png</file>
+        <file>images/FREC.png</file>
+        <file>images/frecIcon.png</file>
+        <file>images/Frosh.png</file>
+        <file>images/froshIcon.png</file>
+        <file>images/BrownTowerBullet.png</file>
+        <file>images/Enemy.png</file>
+        <file>images/Engineer.png</file>
+        <file>images/Shot Empty.png</file>
+        <file>images/Shot Full.png</file>
+        <file>images/engineerDrink.png</file>
+        <file>images/frecDrink.png</file>
+        <file>images/froshDrink.png</file>
+        <file>images/blank.png</file>
+        <file>images/EnemyDown.png</file>
+        <file>images/keg.png</file>
+        <file>images/shot.png</file>
+        <file>images/goodPauseButton.png</file>
+        <file>images/0_Down3.png</file>
+        <file>images/0_Empty3.png</file>
+        <file>images/20_Down3.png</file>
+        <file>images/20_Full3.png</file>
+        <file>images/60_Down3.png</file>
+        <file>images/60_Full3.png</file>
+        <file>images/80_Down3.png</file>
+        <file>images/80_Full3.png</file>
+        <file>images/100_Down3.png</file>
+        <file>images/100_Full3.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
